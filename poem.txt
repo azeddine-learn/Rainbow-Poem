@@ -5,6 +5,8 @@ colors of the rainbow and the unicorn
 Purple
 Pink
 Orange 
+indigo
+black
 Blue
 Red 
 Yellow
